@@ -9,7 +9,7 @@ def bubble_sort(array)
         array[i], array[i + 1] = array[i + 1], array[i] if array[i].to_f > array[i + 1].to_f && i != k
       end
     end
-    print array
+    array
   end
 end
 
@@ -23,15 +23,15 @@ def bubble_sort_by(array)
         array[i], array[i + 1] = array[i + 1], array[i] if yield(array[i], array[i + 1]).positive?
       end
     end
-    print array
+    array
   else
     puts 'not a valid array'
   end
 end
 
 puts 'Result of bubble_sort():'
-bubble_sort([4, -3, 37.3, -78, 2.4, 0, 4])
+printbubble_sort([4, -3, 37.3, -78, 2.4, 0, 4])
 puts "\nResult of bubble_sort_by():"
-bubble_sort_by(['hi', 'hello', 'goodbye', 'hey!']) do |left, right|
+print(bubble_sort_by(['hi', 'hello', 'goodbye', 'hey!']) do |left, right|
   left.length - right.length
-end
+end)
