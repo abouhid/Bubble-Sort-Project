@@ -8,7 +8,7 @@ Assignment is focused on the use of yield and passing a block to a method.
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](screenshot.png)
 
 
 ## Built With
@@ -19,8 +19,7 @@ Assignment is focused on the use of yield and passing a block to a method.
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@abouhid/bubblesortrb#main.rb
-)
+[Live Demo Link](https://repl.it/@abouhid/bubblesortrb#main.rb)
 
 
 ### Prerequisites
@@ -30,7 +29,6 @@ Assignment is focused on the use of yield and passing a block to a method.
 ### Setup
 
 - Download or clone the repository's files
-- Additionally, You can go to [githack](https://raw.githack.com) 
 
 ## Author
 
@@ -49,7 +47,7 @@ Assignment is focused on the use of yield and passing a block to a method.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Rocio01/Using-Bootstrap/issues).
+Feel free to check the [issues page](https://github.com/abouhid/Bubble-Sort-Project/issues).
 
 ## Show your support
 
