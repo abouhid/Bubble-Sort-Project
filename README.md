@@ -1,23 +1,26 @@
 # Advanced Building Blocks - Bubble Sort
 
-> In this project, we implemented the bubble sort algorithm. 
+> In this project, we implemented the bubble sort algorithm (to sort an array in ascending order). 
 Assignment is focused on the use of yield and passing a block to a method.
+ #bubble_sort method
+ #bubble_sort_by method
 
 
 ## Screenshot
 
-![screenshot](./images/Desktop_Screenshot_Newsweek.png)
+![screenshot]()
 
 
 ## Built With
 
-- Twitter’s Bootstrap framework
-- HTML
-- CSS
+- Ruby
+- Rubocop
+
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Rocio01/Using-Bootstrap/master/index.html)
+[Live Demo Link](https://repl.it/@abouhid/bubblesortrb#main.rb
+)
 
 
 ### Prerequisites
@@ -27,8 +30,7 @@ Assignment is focused on the use of yield and passing a block to a method.
 ### Setup
 
 - Download or clone the repository's files
-- Open the index.html file using any web browser of your choice
-- Additionally, You can go to [githack](https://raw.githack.com) and put the link of HTML file there and access the site from generated link.
+- Additionally, You can go to [githack](https://raw.githack.com) 
 
 ## Author
 
@@ -38,11 +40,10 @@ Assignment is focused on the use of yield and passing a block to a method.
 - Twitter: [@rugiada8801](https://twitter.com/rugiada8801)
 - Linkedin: [zulma-martinez-5247a31a8](https://www.linkedin.com/in/zulma-martinez-5247a31a8/)
 
-👤 **Prabhakar Pandey**
+👤 **Alexandre Bouhid**
 
-- Github: [@Prabhakarzx](https://github.com/Prabhakarzx)
-- Twitter: [@Prabhakarzx](https://twitter.com/prabhakarzx)
-- Linkedin: [@Prabhakarzx](https://www.linkedin.com/in/prabhakarzx/)
+- Github: [@abouhid](https://github.com/abouhid)
+- LinkedIn: [Alexandre Bouhid](https://www.linkedin.com/in/alexandrebouhid/)
 
 ## 🤝 Contributing
 
@@ -59,7 +60,7 @@ Give a ⭐️ if you like this project!
 - Microverse
 - GitHub
 - TheOdinProject
-- Bootstrap
+- Ruby
 
 ## 📝 License
 
