@@ -30,7 +30,7 @@ def bubble_sort_by(array)
 end
 
 puts 'Result of bubble_sort():'
-printbubble_sort([4, -3, 37.3, -78, 2.4, 0, 4])
+print bubble_sort([4, -3, 37.3, -78, 2.4, 0, 4])
 puts "\nResult of bubble_sort_by():"
 print(bubble_sort_by(['hi', 'hello', 'goodbye', 'hey!']) do |left, right|
   left.length - right.length
